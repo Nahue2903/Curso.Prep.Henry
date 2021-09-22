@@ -1,0 +1,22 @@
+
+	OPERADOR LÓGICO
+	
+          ( ! ) 
+	conocido como NOT, este contradice la respuesta correcta, pongamos un ejemplo sabemos que el cielo es azul "if(cielo = azul)"
+	pero si se lo pregunramos a una linea de codigo usando el operador logico "!"  if(cielo != azul) como resultado tendremos un no como respuesta, en otras palabras
+	este nos niega el resultado.
+
+        (&&)
+	llamado AND, este nos compara dos condiciones, con que solo una sea falsa es suficiente para que nuestro resultado sea falso
+ 
+         ( || )
+	OR, es el contrario de AND, con una condicion verdadera nuestro resultado sera verdadero.
+
+
+	ESTRUCTURA FOR
+	
+	es un bucle o sin ciclo de repeticion, hasta que consigamos el valor previamente ingresado, tiene tres componentes:
+	Primero, debemos declarar una variable, esto es sobre lo que se repetirá el bucle.
+ 	Segundo, tendremos una expresión condicional, el ciclo continuará sucediendo hasta que esta declaración sea false.
+ 	Tercero, incrementaremos nuestra variable(primer componente).
+		
