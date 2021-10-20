@@ -1,0 +1,22 @@
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aqua;
+    padding: 50px;
+    
+    border: solid 15px  black;
+
+}
+#divClass{
+    background-color: blanchedalmond;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+h1{
+    background: url('https://www.crockford.com/wrrrld/color.html') ;
+}
+img{
+    width: 400px;
+}
