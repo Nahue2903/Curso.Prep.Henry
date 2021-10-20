@@ -1,0 +1,3 @@
+
+	ARRAYs
+		estos son datos almacenados con el mismo nombre y se referencian con un indice, sirven para guardar un conjunto de datos (numeros, caracteres o cadenas de texto)
